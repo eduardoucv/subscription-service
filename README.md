@@ -40,8 +40,13 @@ git clone https://github.com/eduardoucv/subscription-service
 cd subscription-service
 ```
 
+3. Install dependencies
 
-3. Run docker-compose to start development environment
+```sh
+npm install
+```
+
+4. Run docker-compose to start development environment
 
 ```sh
 docker-compose up
